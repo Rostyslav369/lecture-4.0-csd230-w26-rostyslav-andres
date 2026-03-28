@@ -2,7 +2,7 @@ name: Java CI/CD Pipeline
 
 on:
   push:
-    branches: [ "main", "master" ]
+    branches: [ "main", "master", "4.0-lecture-ci-cd" ]
   pull_request:
     branches: [ "main", "master" ]
 
